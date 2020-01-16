@@ -135,6 +135,7 @@ public class VarastoTest {
         Varasto virheellinenVarasto = new Varasto(10,-5);
         
         assertEquals(0, virheellinenVarasto.getSaldo(), vertailuTarkkuus);
+        //Muutos tehtävää 11 varten 
     }
 
 }
