@@ -134,7 +134,7 @@ public class VarastoTest {
     public void negatiivinenAlkusaldoNollataan() {
         Varasto virheellinenVarasto = new Varasto(10,-5);
         
-        assertEquals(0, virheellinenVarasto.getSaldo(), vertailuTarkkuus);
+        assertEquals(10, virheellinenVarasto.getSaldo(), vertailuTarkkuus);
     }
 
 }
