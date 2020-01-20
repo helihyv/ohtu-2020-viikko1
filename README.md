@@ -4,3 +4,4 @@
 
 [![codecov](https://codecov.io/gh/helihyv/ohtu-2020-viikko1/branch/master/graph/badge.svg)](https://codecov.io/gh/helihyv/ohtu-2020-viikko1)
 
+[https://github.com/helihyv/ohtu-tehtavat](https://github.com/helihyv/ohtu-tehtavat)
