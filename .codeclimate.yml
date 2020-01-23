@@ -3,7 +3,3 @@ plugins:
         enabled: true
         config:
             file: "config/checkstyle/checkstyle.xml"
-
-<module name="Checker">
-    property name="severity" value="warning"/>
-</module>
